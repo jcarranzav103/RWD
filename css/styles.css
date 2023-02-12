@@ -3032,17 +3032,17 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #3a5cf4;
+  background-color: #f4623a;
   border-color: #f4623a;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #2596be;
   border-color: #c34e2e;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #2596be;
   border-color: #c34e2e;
   box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
 }
@@ -11318,7 +11318,7 @@ body {
 
 hr.divider {
   height: 0.2rem;
-  max-width: 3.25rem;
+  max-width: 15rem;
   margin: 1.5rem auto;
   background-color: #f4623a;
   opacity: 1;

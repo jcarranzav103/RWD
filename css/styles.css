@@ -3032,7 +3032,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #3a5cf4;
   border-color: #f4623a;
 }
 .btn-primary:hover {
@@ -6724,6 +6724,7 @@ textarea.form-control-lg {
 
 .d-grid {
   display: grid !important;
+  color: #13653f;
 }
 
 .d-table {

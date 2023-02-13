@@ -89,6 +89,12 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+#services.page-section{
+ 
+  background-color: #8eb2e7;
+
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;

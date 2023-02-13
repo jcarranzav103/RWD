@@ -11477,7 +11477,7 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-/* Estilos realizados anterior y posteriormente */
+/* Estilos realizados anterior y posteriormente PARTE DE VLADI*/
 
 /* Enlistado de razones para usar Responsiveness */
 #enlistadoRazonesResponsiveness{
@@ -11485,4 +11485,11 @@ header.masthead h1, header.masthead .h1 {
   color: white;
   font-weight: 500;
   font-size: larger;
+}
+
+/* Aplicar resposiveness en el enlistado de razones para usar Responsiveness*/
+@media (max-width: 700px) {
+  #enlistadoRazonesResponsiveness {
+    font-size: 1rem;
+  }
 }

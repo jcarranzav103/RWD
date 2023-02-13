@@ -3032,17 +3032,17 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #3a5cf4;
+  background-color: #f4623a;
   border-color: #f4623a;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #2596be;
   border-color: #c34e2e;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #2596be;
   border-color: #c34e2e;
   box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
 }
@@ -3217,7 +3217,7 @@ textarea.form-control-lg {
 }
 .btn-light:hover {
   color: #000;
-  background-color: #f9fafb;
+  background-color: #2596be;
   border-color: #f9fafb;
 }
 .btn-check:focus + .btn-light, .btn-light:focus {
@@ -11318,7 +11318,7 @@ body {
 
 hr.divider {
   height: 0.2rem;
-  max-width: 3.25rem;
+  max-width: 15rem;
   margin: 1.5rem auto;
   background-color: #f4623a;
   opacity: 1;
@@ -11456,4 +11456,14 @@ header.masthead h1, header.masthead .h1 {
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+
+/* Estilos realizados anterior y posteriormente */
+
+/* Enlistado de razones para usar Responsiveness */
+#enlistadoRazonesResponsiveness{
+  text-align: left;
+  color: white;
+  font-weight: 500;
+  font-size: larger;
 }

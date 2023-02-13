@@ -95,6 +95,19 @@ body {
 
 }
 
+#cajaPrincipal{
+  height: 450px;
+  
+  align-items:stretch;
+  
+}
+.caja{
+  height: 100px;
+  width: 280px;
+  margin: 4px;
+  text-align: center;
+}  
+
 hr {
   margin: 1rem 0;
   color: inherit;

@@ -91,7 +91,7 @@ body {
 
 #services.page-section{
  
-  background-color: #8eb2e7;
+  background-color: #76b5c5;
 
 }
 
@@ -3056,12 +3056,12 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #2596be;
+  background-color: #76b5c5;
   border-color: #c34e2e;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #2596be;
+  background-color: #76b5c5;
   border-color: #c34e2e;
   box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
 }
@@ -3234,9 +3234,19 @@ textarea.form-control-lg {
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
+.btn-fast {
+  color: #000;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+}
+.btn-fast:hover {
+  color: #000;
+  background-color: #f4623a;
+  border-color: #f9fafb;
+}
 .btn-light:hover {
   color: #000;
-  background-color: #2596be;
+  background-color: #76b5c5;
   border-color: #f9fafb;
 }
 .btn-check:focus + .btn-light, .btn-light:focus {
@@ -7793,7 +7803,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #3c382d !important;
 }
 
 .text-black-50 {
@@ -11327,6 +11337,7 @@ body {
 }
 
 .btn-xl {
+  margin-top: 50px;
   padding: 1.25rem 2.25rem;
   font-size: 0.85rem;
   font-weight: 700;

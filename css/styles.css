@@ -11336,6 +11336,7 @@ body {
   color: rgba(255, 255, 255, 0.75) !important;
 }
 
+/* button styles */
 .btn-xl {
   margin-top: 50px;
   padding: 1.25rem 2.25rem;
@@ -11346,6 +11347,7 @@ body {
   border-radius: 10rem;
 }
 
+/* Divder line styles */
 hr.divider {
   height: 0.2rem;
   max-width: 15rem;
@@ -11358,6 +11360,7 @@ hr.divider-light {
   background-color: #fff;
 }
 
+/* Nav styles */
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
@@ -11420,6 +11423,7 @@ hr.divider-light {
   }
 }
 
+/* Portada styles */
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
